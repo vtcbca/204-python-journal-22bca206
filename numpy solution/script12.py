@@ -10,6 +10,6 @@ def listnumpy():
      a=np.array(l)
      print("\nOne Dimensional Numpy Array:",a)
      print("\nDimension Of Array :",a.ndim)
-     print("\nSize Of An Array",a.size)
-     print("\nBytes Of An Array",a.nbytes)
+     print("\nSize Of An Array :",a.size)
+     print("\nBytes Of An Array :",a.nbytes)
 listnumpy()
